@@ -18,8 +18,8 @@ html {
 }
 
 body {
-	background: $darkerGray;
-  font: 18px/1.4 $georgia;
+	background: $white;
+  font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
 
@@ -31,8 +31,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $georgia;
-  color: $white;
+  font-family: $helveticaNeue;
+  color: $darkerGray;
   font-weight: bold;
 
   line-height: 1.7;
