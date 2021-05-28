@@ -2,7 +2,10 @@
 //
 // VARIABLES
 //
+// START IMPORT FONTS
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+// END IMPORT FONTS
 // Colors
 $blue: #4183C4;
 
@@ -16,7 +19,7 @@ $white: #fff;
 
 // Font stacks
 $monserrat: 'Montserrat', sans-serif;
-$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$ubuntu: font-family: 'Ubuntu', sans-serif;
 $georgia: Georgia, serif;
 
 // Mobile breakpoints
