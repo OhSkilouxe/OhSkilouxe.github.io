@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $white;
+	background: $yellow;
   font: 18px/1.4 $montserrat;
   color: $darkGray;
 }
@@ -32,7 +32,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $ubuntu;
-  color: $darkerGray;
+  color: $beige;
   font-weight: bold;
 
   line-height: 1.7;
@@ -61,7 +61,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: $purple;
 }
 
 p {
@@ -117,7 +117,7 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: $purple;
 }
 
 // Specify the color of the selection
@@ -202,7 +202,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: $purple;
   font-size: 16px;
 
   @include mobile {
@@ -254,9 +254,9 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid $gray;
+    border-left: 2px solid $purple;
     padding: 0.1em 1em;
-    color: $gray;
+    color: $purple;
     font-size: 22px;
     font-style: italic;
   }
